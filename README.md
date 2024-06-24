@@ -1,0 +1,1 @@
+Hello, Odin! I'm currently making a recipe website. I would have demonstrated using the different elements and tags(lists, images, links, paragraphs) to make my website comprehensible and cohesive.
